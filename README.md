@@ -63,5 +63,9 @@ public class IdletoCrouch : MonoBehaviour
 }
 ```
 ## Output:
-
+### Idle Position:
+![image](https://github.com/Meenakshi0907/Animator/blob/main/Screenshot%202023-06-10%20194320.png)
+### Crouch/Moving Position:
+![image](https://github.com/Meenakshi0907/Animator/blob/main/Screenshot%202023-06-10%20194406.png)
 ## Result:
+Thus, the animator was successfully developed in unity engine with the C#.
